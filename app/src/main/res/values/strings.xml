@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UNIBRATEC - Disciplinas</string>
+    <string name="acao_favorito">Favoritos</string>
+    <string name="no_connection_msg">Conexão indisponível no momento.</string>
+    <string name="msg_erro">Erro ao obter informações do servidor.</string>
+    <string name="msg_inserted">Inserido com sucesso.</string>
+    <string name="msg_removed">Removido com sucesso.</string>
+</resources>
